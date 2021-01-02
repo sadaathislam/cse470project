@@ -63,7 +63,7 @@ public class OrderingSystem {
         ArrayList<SalesReport> sales = new ArrayList<SalesReport>();
         
         //password part
-        Password p = new Password("admin");
+        Password p = new Password("hello");
         String[] options = new String[]{"Cancel", "Ok"};
         PasswordPanel pnlPass = new PasswordPanel();
 
